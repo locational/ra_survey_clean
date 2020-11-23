@@ -1,1 +1,2 @@
-# ra_survey_clean
+# Scripts to support conversion from Lime Survey output into graph data
+

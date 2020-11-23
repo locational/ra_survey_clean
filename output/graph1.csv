@@ -1,3 +1,12 @@
 ,from_org,to_org,rel_type,rel_freq
 0,Resource Africa,Southern African Trust (SAT),community_development|health|water,weekly
-1,Southern Africa Trust,Southern Africa People's Solidarity Network,gender|peace_building|wildlife_biodiversity,multiple_6_monthly
+1,Resource Africa,Community Based Natural Resources Management (CBNRM) organisations and CBOs,climate_change|community_development|health|water,weekly
+2,Southern Africa Trust,Southern Africa People's Solidarity Network,gender|peace_building|wildlife_biodiversity,multiple_6_monthly
+3,Southern Africa Trust,Graca Machel Trust,agriculture|climate_change|conservation|gender|health|peace_building,once_6_monthly
+4,Southern Africa Trust,Mandela Institute for Development Studies,conservation|energy|food_security|health|peace_building,multiple_6_monthly
+5,Southern Africa Trust,SADC Secretariat,agriculture|conservation|energy|gender|health|peace_building,multiple_6_monthly
+6,Southern Africa Trust,Centre on African Philanthropy and Social Investments,conservation|energy|peace_building,once_6_monthly
+7,Southern Africa Trust,Foreign and Commonwealth Development Office,agriculture|conservation|energy|gender,multiple_6_monthly
+8,Southern Africa Trust,Ford Foundation,agriculture|conservation|energy|food_security|gender|health|human_rights|peace_building,multiple_6_monthly
+9,Southern Africa Trust,Mott Foundation,climate_change|gender|wildlife_biodiversity,once_6_monthly
+10,Southern Africa Trust,Southern Africa Rural Women's Assembly,climate_change|gender,once_6_monthly
