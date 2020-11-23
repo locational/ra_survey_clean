@@ -1,0 +1,31 @@
+idx	short_name	name	value
+43	p1_name	Which other organisations does {INSERTANS:815499X2X10} work most closely with? List up to 10. [Organisation 1]	Namibian Association of CBNRM Support Organisations (NACSO)
+44	p2_name	Which other organisations does {INSERTANS:815499X2X10} work most closely with? List up to 10. [Organisation 2]	Southern African Trust (SAT)
+45	p3_name	Which other organisations does {INSERTANS:815499X2X10} work most closely with? List up to 10. [Organisation 3]	Community Based Natural Resources Management (CBNRM) organisations and CBOs
+46	p4_name	Which other organisations does {INSERTANS:815499X2X10} work most closely with? List up to 10. [Organisation 4]	
+47	p5_name	Which other organisations does {INSERTANS:815499X2X10} work most closely with? List up to 10. [Organisation 5]	
+48	p6_name	Which other organisations does {INSERTANS:815499X2X10} work most closely with? List up to 10. [Organisation 6]	
+49	p7_name	Which other organisations does {INSERTANS:815499X2X10} work most closely with? List up to 10. [Organisation 7]	
+50	p8_name	Which other organisations does {INSERTANS:815499X2X10} work most closely with? List up to 10. [Organisation 8]	
+51	p9_name	Which other organisations does {INSERTANS:815499X2X10} work most closely with? List up to 10. [Organisation 9]	
+52	p10_name	Which other organisations does {INSERTANS:815499X2X10} work most closely with? List up to 10. [Organisation 10]	
+53	p1_rel	Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ001}? [Agriculture]	No
+75	p2_rel	Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ002}? [Agriculture]	No
+97	p3_rel	Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ003}? [Agriculture]	No
+119	p4_rel	Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ004}? [Agriculture]	N/A
+141	p5_rel	Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ005}? [Agriculture]	N/A
+163	p6_rel	Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ006}? [Agriculture]	N/A
+185	p7_rel	Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ007}? [Agriculture]	N/A
+207	p8_rel	Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ008}? [Agriculture]	N/A
+229	p9_rel	Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ009}? [Agriculture]	N/A
+251	p10_rel	Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ010}? [Agriculture]	N/A
+273	p1_freq	How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ001}? [Not in the last 6 months]	No
+279	p2_freq	How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ002}? [Not in the last 6 months]	No
+285	p3_freq	How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ003}? [Not in the last 6 months]	No
+291	p4_freq	How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ004}? [Not in the last 6 months]	N/A
+297	p5_freq	How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ005}? [Not in the last 6 months]	N/A
+303	p6_freq	How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ006}? [Not in the last 6 months]	N/A
+309	p7_freq	How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ007}? [Not in the last 6 months]	N/A
+315	p8_freq	How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ008}? [Not in the last 6 months]	N/A
+321	p9_freq	How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ009}? [Not in the last 6 months]	N/A
+327	p10_freq	How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ010}? [Not in the last 6 months]	N/A

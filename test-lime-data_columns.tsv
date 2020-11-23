@@ -1,0 +1,333 @@
+idx	short_name	name	value
+1	org_name	What is the name of your organisation?	Resource Africa
+2	phone	Please enter your organisations' primary contact phone number with country code.	27733532682
+3	email	Please enter in your organisations' primary contact email.	info@resourceafrica.net
+4	address	Please enter the address of your organisations' head office/ headquarters.	45 Kyalami Boulevard, Kyalami Park,
+5	website	Please enter your organisations' website address and any social media links. [Main Website]	http://www.resourceafrica.net
+6	facebook	Please enter your organisations' website address and any social media links. [Facebook]	https://www.facebook.com/theresourceafricanetwork
+7	twitter	Please enter your organisations' website address and any social media links. [Twitter]	@africa_resource
+8	instagram	Please enter your organisations' website address and any social media links. [Instagram]	
+9	linkedin	Please enter your organisations' website address and any social media links. [LinkedIn ]	
+10	other_media	Please enter your organisations' website address and any social media links. [Other]	
+11		Which of the following groups does your organisation primarily represent? [Business/Entrepreneur]	No
+12		Which of the following groups does your organisation primarily represent? [Civil Society Organisation / Non-Profit]	Yes
+13		Which of the following groups does your organisation primarily represent? [Education (Educator/School/District)]	No
+14		Which of the following groups does your organisation primarily represent? [Funder]	No
+15		Which of the following groups does your organisation primarily represent? [INGO]	No
+16		Which of the following groups does your organisation primarily represent? [Local Government]	No
+17		Which of the following groups does your organisation primarily represent? [Multilateral Institute]	No
+18		Which of the following groups does your organisation primarily represent? [National Government]	No
+19		Which of the following groups does your organisation primarily represent? [Research]	Yes
+20		Which of the following groups does your organisation primarily represent? [Other]	2
+21		Which topics / issues does {INSERTANS:815499X2X10} work on? [Agriculture]	No
+22		Which topics / issues does {INSERTANS:815499X2X10} work on? [Climate Change]	No
+23		Which topics / issues does {INSERTANS:815499X2X10} work on? [Community Development]	Yes
+24		Which topics / issues does {INSERTANS:815499X2X10} work on? [Conservation]	Yes
+25		Which topics / issues does {INSERTANS:815499X2X10} work on? [Economic Development]	No
+26		Which topics / issues does {INSERTANS:815499X2X10} work on? [Education]	No
+27		Which topics / issues does {INSERTANS:815499X2X10} work on? [Energy]	No
+28		Which topics / issues does {INSERTANS:815499X2X10} work on? [Food Security]	No
+29		Which topics / issues does {INSERTANS:815499X2X10} work on? [Gender]	No
+30		Which topics / issues does {INSERTANS:815499X2X10} work on? [Grant-making / Philanthropy]	No
+31		Which topics / issues does {INSERTANS:815499X2X10} work on? [Health]	No
+32		Which topics / issues does {INSERTANS:815499X2X10} work on? [Human Rights]	Yes
+33		Which topics / issues does {INSERTANS:815499X2X10} work on? [Peace Building]	No
+34		Which topics / issues does {INSERTANS:815499X2X10} work on? [Policy-making / Governance]	No
+35		Which topics / issues does {INSERTANS:815499X2X10} work on? [Water]	No
+36		Which topics / issues does {INSERTANS:815499X2X10} work on? [Wildlife / Biodiversity]	Yes
+37		Which topics / issues does {INSERTANS:815499X2X10} work on? [Other]	No
+38		Which other issues does {INSERTANS:815499X2X10} work on? [Issue 1]	
+39		Which other issues does {INSERTANS:815499X2X10} work on? [Issue 2]	
+40		Which other issues does {INSERTANS:815499X2X10} work on? [Issue 3]	
+41		Which other issues does {INSERTANS:815499X2X10} work on? [Issue 4]	
+42		Which other issues does {INSERTANS:815499X2X10} work on? [Issue 5]	
+43	p1_name	Which other organisations does {INSERTANS:815499X2X10} work most closely with? List up to 10. [Organisation 1]	Namibian Association of CBNRM Support Organisations (NACSO)
+44	p2_name	Which other organisations does {INSERTANS:815499X2X10} work most closely with? List up to 10. [Organisation 2]	Southern African Trust (SAT)
+45	p3_name	Which other organisations does {INSERTANS:815499X2X10} work most closely with? List up to 10. [Organisation 3]	Community Based Natural Resources Management (CBNRM) organisations and CBOs
+46	p4_name	Which other organisations does {INSERTANS:815499X2X10} work most closely with? List up to 10. [Organisation 4]	
+47	p5_name	Which other organisations does {INSERTANS:815499X2X10} work most closely with? List up to 10. [Organisation 5]	
+48	p6_name	Which other organisations does {INSERTANS:815499X2X10} work most closely with? List up to 10. [Organisation 6]	
+49	p7_name	Which other organisations does {INSERTANS:815499X2X10} work most closely with? List up to 10. [Organisation 7]	
+50	p8_name	Which other organisations does {INSERTANS:815499X2X10} work most closely with? List up to 10. [Organisation 8]	
+51	p9_name	Which other organisations does {INSERTANS:815499X2X10} work most closely with? List up to 10. [Organisation 9]	
+52	p10_name	Which other organisations does {INSERTANS:815499X2X10} work most closely with? List up to 10. [Organisation 10]	
+53	p1_rel	Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ001}? [Agriculture]	No
+54		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ001}? [Climate Change]	No
+55		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ001}? [Community Development]	No
+56		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ001}? [Conservation]	Yes
+57		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ001}? [Economic Development]	No
+58		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ001}? [Education]	No
+59		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ001}? [Energy]	No
+60		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ001}? [Food Security]	No
+61		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ001}? [Gender]	No
+62		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ001}? [Grant-making / Philanthropy]	No
+63		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ001}? [Health]	No
+64		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ001}? [Human Rights]	Yes
+65		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ001}? [Peace Building]	No
+66		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ001}? [Policy-making / Governance]	No
+67		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ001}? [Water]	No
+68		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ001}? [Wildlife / Biodiversity]	Yes
+69		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ001}? [Other]	No
+70		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ001}? [Issue 1]	
+71		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ001}? [Issue 2]	
+72		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ001}? [Issue 3]	
+73		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ001}? [Issue 4]	
+74		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ001}? [Issue 5]	
+75	p2_rel	Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ002}? [Agriculture]	No
+76		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ002}? [Climate Change]	No
+77		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ002}? [Community Development]	Yes
+78		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ002}? [Conservation]	Yes
+79		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ002}? [Economic Development]	No
+80		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ002}? [Education]	No
+81		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ002}? [Energy]	No
+82		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ002}? [Food Security]	No
+83		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ002}? [Gender]	No
+84		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ002}? [Grant-making / Philanthropy]	No
+85		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ002}? [Health]	No
+86		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ002}? [Human Rights]	Yes
+87		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ002}? [Peace Building]	No
+88		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ002}? [Policy-making / Governance]	No
+89		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ002}? [Water]	No
+90		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ002}? [Wildlife / Biodiversity]	Yes
+91		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ002}? [Other]	No
+92		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ002}? [Issue 1]	
+93		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ002}? [Issue 2]	
+94		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ002}? [Issue 3]	
+95		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ002}? [Issue 4]	
+96		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ002}? [Issue 5]	
+97	p3_rel	Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ003}? [Agriculture]	No
+98		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ003}? [Climate Change]	No
+99		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ003}? [Community Development]	Yes
+100		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ003}? [Conservation]	Yes
+101		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ003}? [Economic Development]	No
+102		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ003}? [Education]	No
+103		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ003}? [Energy]	No
+104		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ003}? [Food Security]	No
+105		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ003}? [Gender]	No
+106		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ003}? [Grant-making / Philanthropy]	No
+107		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ003}? [Health]	No
+108		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ003}? [Human Rights]	Yes
+109		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ003}? [Peace Building]	No
+110		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ003}? [Policy-making / Governance]	No
+111		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ003}? [Water]	No
+112		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ003}? [Wildlife / Biodiversity]	Yes
+113		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ003}? [Other]	No
+114		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ003}? [Issue 1]	
+115		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ003}? [Issue 2]	
+116		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ003}? [Issue 3]	
+117		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ003}? [Issue 4]	
+118		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ003}? [Issue 5]	
+119	p4_rel	Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ004}? [Agriculture]	N/A
+120		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ004}? [Climate Change]	N/A
+121		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ004}? [Community Development]	N/A
+122		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ004}? [Conservation]	N/A
+123		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ004}? [Economic Development]	N/A
+124		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ004}? [Education]	N/A
+125		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ004}? [Energy]	N/A
+126		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ004}? [Food Security]	N/A
+127		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ004}? [Gender]	N/A
+128		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ004}? [Grant-making / Philanthropy]	N/A
+129		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ004}? [Health]	N/A
+130		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ004}? [Human Rights]	N/A
+131		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ004}? [Peace Building]	N/A
+132		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ004}? [Policy-making / Governance]	N/A
+133		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ004}? [Water]	N/A
+134		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ004}? [Wildlife / Biodiversity]	N/A
+135		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ004}? [Other]	N/A
+136		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ004}? [Issue 1]	
+137		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ004}? [Issue 2]	
+138		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ004}? [Issue 3]	
+139		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ004}? [Issue 4]	
+140		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ004}? [Issue 5]	
+141	p5_rel	Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ005}? [Agriculture]	N/A
+142		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ005}? [Climate Change]	N/A
+143		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ005}? [Community Development]	N/A
+144		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ005}? [Conservation]	N/A
+145		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ005}? [Economic Development]	N/A
+146		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ005}? [Education]	N/A
+147		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ005}? [Energy]	N/A
+148		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ005}? [Food Security]	N/A
+149		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ005}? [Gender]	N/A
+150		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ005}? [Grant-making / Philanthropy]	N/A
+151		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ005}? [Health]	N/A
+152		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ005}? [Human Rights]	N/A
+153		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ005}? [Peace Building]	N/A
+154		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ005}? [Policy-making / Governance]	N/A
+155		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ005}? [Water]	N/A
+156		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ005}? [Wildlife / Biodiversity]	N/A
+157		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ005}? [Other]	N/A
+158		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ005}? [Issue 1]	
+159		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ005}? [Issue 2]	
+160		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ005}? [Issue 3]	
+161		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ005}? [Issue 4]	
+162		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ005}? [Issue 5]	
+163	p6_rel	Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ006}? [Agriculture]	N/A
+164		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ006}? [Climate Change]	N/A
+165		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ006}? [Community Development]	N/A
+166		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ006}? [Conservation]	N/A
+167		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ006}? [Economic Development]	N/A
+168		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ006}? [Education]	N/A
+169		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ006}? [Energy]	N/A
+170		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ006}? [Food Security]	N/A
+171		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ006}? [Gender]	N/A
+172		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ006}? [Grant-making / Philanthropy]	N/A
+173		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ006}? [Health]	N/A
+174		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ006}? [Human Rights]	N/A
+175		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ006}? [Peace Building]	N/A
+176		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ006}? [Policy-making / Governance]	N/A
+177		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ006}? [Water]	N/A
+178		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ006}? [Wildlife / Biodiversity]	N/A
+179		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ006}? [Other]	N/A
+180		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ006}? [Issue 1]	
+181		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ006}? [Issue 2]	
+182		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ006}? [Issue 3]	
+183		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ006}? [Issue 4]	
+184		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ006}? [Issue 5]	
+185	p7_rel	Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ007}? [Agriculture]	N/A
+186		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ007}? [Climate Change]	N/A
+187		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ007}? [Community Development]	N/A
+188		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ007}? [Conservation]	N/A
+189		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ007}? [Economic Development]	N/A
+190		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ007}? [Education]	N/A
+191		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ007}? [Energy]	N/A
+192		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ007}? [Food Security]	N/A
+193		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ007}? [Gender]	N/A
+194		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ007}? [Grant-making / Philanthropy]	N/A
+195		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ007}? [Health]	N/A
+196		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ007}? [Human Rights]	N/A
+197		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ007}? [Peace Building]	N/A
+198		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ007}? [Policy-making / Governance]	N/A
+199		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ007}? [Water]	N/A
+200		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ007}? [Wildlife / Biodiversity]	N/A
+201		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ007}? [Other]	N/A
+202		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ007}? [Issue 1]	
+203		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ007}? [Issue 2]	
+204		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ007}? [Issue 3]	
+205		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ007}? [Issue 4]	
+206		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ007}? [Issue 5]	
+207	p8_rel	Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ008}? [Agriculture]	N/A
+208		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ008}? [Climate Change]	N/A
+209		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ008}? [Community Development]	N/A
+210		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ008}? [Conservation]	N/A
+211		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ008}? [Economic Development]	N/A
+212		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ008}? [Education]	N/A
+213		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ008}? [Energy]	N/A
+214		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ008}? [Food Security]	N/A
+215		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ008}? [Gender]	N/A
+216		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ008}? [Grant-making / Philanthropy]	N/A
+217		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ008}? [Health]	N/A
+218		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ008}? [Human Rights]	N/A
+219		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ008}? [Peace Building]	N/A
+220		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ008}? [Policy-making / Governance]	N/A
+221		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ008}? [Water]	N/A
+222		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ008}? [Wildlife / Biodiversity]	N/A
+223		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ008}? [Other]	N/A
+224		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ008}? [Issue 1]	
+225		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ008}? [Issue 2]	
+226		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ008}? [Issue 3]	
+227		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ008}? [Issue 4]	
+228		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ008}? [Issue 5]	
+229	p9_rel	Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ009}? [Agriculture]	N/A
+230		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ009}? [Climate Change]	N/A
+231		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ009}? [Community Development]	N/A
+232		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ009}? [Conservation]	N/A
+233		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ009}? [Economic Development]	N/A
+234		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ009}? [Education]	N/A
+235		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ009}? [Energy]	N/A
+236		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ009}? [Food Security]	N/A
+237		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ009}? [Gender]	N/A
+238		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ009}? [Grant-making / Philanthropy]	N/A
+239		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ009}? [Health]	N/A
+240		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ009}? [Human Rights]	N/A
+241		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ009}? [Peace Building]	N/A
+242		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ009}? [Policy-making / Governance]	N/A
+243		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ009}? [Water]	N/A
+244		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ009}? [Wildlife / Biodiversity]	N/A
+245		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ009}? [Other]	N/A
+246		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ009}? [Issue 1]	
+247		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ009}? [Issue 2]	
+248		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ009}? [Issue 3]	
+249		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ009}? [Issue 4]	
+250		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ009}? [Issue 5]	
+251	p10_rel	Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ010}? [Agriculture]	N/A
+252		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ010}? [Climate Change]	N/A
+253		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ010}? [Community Development]	N/A
+254		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ010}? [Conservation]	N/A
+255		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ010}? [Economic Development]	N/A
+256		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ010}? [Education]	N/A
+257		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ010}? [Energy]	N/A
+258		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ010}? [Food Security]	N/A
+259		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ010}? [Gender]	N/A
+260		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ010}? [Grant-making / Philanthropy]	N/A
+261		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ010}? [Health]	N/A
+262		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ010}? [Human Rights]	N/A
+263		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ010}? [Peace Building]	N/A
+264		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ010}? [Policy-making / Governance]	N/A
+265		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ010}? [Water]	N/A
+266		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ010}? [Wildlife / Biodiversity]	N/A
+267		Which of the following issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ010}? [Other]	N/A
+268		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ010}? [Issue 1]	
+269		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ010}? [Issue 2]	
+270		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ010}? [Issue 3]	
+271		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ010}? [Issue 4]	
+272		Which other issues does {INSERTANS:815499X2X10} work on with {INSERTANS:815499X2X278SQ010}? [Issue 5]	
+273	p1_freq	How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ001}? [Not in the last 6 months]	No
+274		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ001}? [Once in the last 6 months]	No
+275		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ001}? [Multiple times in the last 6 months]	No
+276		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ001}? [Multiple times a month]	No
+277		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ001}? [Weekly]	No
+278		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ001}? [Multiple times a week]	Yes
+279	p2_freq	How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ002}? [Not in the last 6 months]	No
+280		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ002}? [Once in the last 6 months]	No
+281		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ002}? [Multiple times in the last 6 months]	No
+282		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ002}? [Multiple times a month]	No
+283		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ002}? [Weekly]	No
+284		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ002}? [Multiple times a week]	Yes
+285	p3_freq	How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ003}? [Not in the last 6 months]	No
+286		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ003}? [Once in the last 6 months]	No
+287		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ003}? [Multiple times in the last 6 months]	No
+288		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ003}? [Multiple times a month]	No
+289		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ003}? [Weekly]	No
+290		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ003}? [Multiple times a week]	Yes
+291	p4_freq	How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ004}? [Not in the last 6 months]	N/A
+292		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ004}? [Once in the last 6 months]	N/A
+293		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ004}? [Multiple times in the last 6 months]	N/A
+294		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ004}? [Multiple times a month]	N/A
+295		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ004}? [Weekly]	N/A
+296		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ004}? [Multiple times a week]	N/A
+297	p5_freq	How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ005}? [Not in the last 6 months]	N/A
+298		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ005}? [Once in the last 6 months]	N/A
+299		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ005}? [Multiple times in the last 6 months]	N/A
+300		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ005}? [Multiple times a month]	N/A
+301		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ005}? [Weekly]	N/A
+302		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ005}? [Multiple times a week]	N/A
+303	p6_freq	How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ006}? [Not in the last 6 months]	N/A
+304		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ006}? [Once in the last 6 months]	N/A
+305		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ006}? [Multiple times in the last 6 months]	N/A
+306		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ006}? [Multiple times a month]	N/A
+307		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ006}? [Weekly]	N/A
+308		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ006}? [Multiple times a week]	N/A
+309	p7_freq	How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ007}? [Not in the last 6 months]	N/A
+310		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ007}? [Once in the last 6 months]	N/A
+311		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ007}? [Multiple times in the last 6 months]	N/A
+312		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ007}? [Multiple times a month]	N/A
+313		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ007}? [Weekly]	N/A
+314		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ007}? [Multiple times a week]	N/A
+315	p8_freq	How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ008}? [Not in the last 6 months]	N/A
+316		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ008}? [Once in the last 6 months]	N/A
+317		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ008}? [Multiple times in the last 6 months]	N/A
+318		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ008}? [Multiple times a month]	N/A
+319		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ008}? [Weekly]	N/A
+320		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ008}? [Multiple times a week]	N/A
+321	p9_freq	How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ009}? [Not in the last 6 months]	N/A
+322		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ009}? [Once in the last 6 months]	N/A
+323		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ009}? [Multiple times in the last 6 months]	N/A
+324		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ009}? [Multiple times a month]	N/A
+325		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ009}? [Weekly]	N/A
+326		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ009}? [Multiple times a week]	N/A
+327	p10_freq	How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ010}? [Not in the last 6 months]	N/A
+328		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ010}? [Once in the last 6 months]	N/A
+329		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ010}? [Multiple times in the last 6 months]	N/A
+330		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ010}? [Multiple times a month]	N/A
+331		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ010}? [Weekly]	N/A
+332		How often does {INSERTANS:815499X2X10} work together with {INSERTANS:815499X2X278SQ010}? [Multiple times a week]	N/A
