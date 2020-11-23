@@ -1,2 +1,8 @@
-# Scripts to support conversion from Lime Survey output into graph data
+# Conversion from Lime Survey output into graph data
+
+Check the `convert.ipynb` file.
+
+
+
+
 
